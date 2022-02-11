@@ -1,0 +1,3 @@
+00001cliente_01PF
+00002cliente_02PJ
+00003cliente_03PF
