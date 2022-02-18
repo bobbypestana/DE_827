@@ -147,6 +147,6 @@
           "StreamViewType": "NEW_AND_OLD_IMAGES"
         },
         "eventSourceARN": "arn:aws:dynamodb:us-east-1:123456789012:table/ExampleTableWithStream/stream/2015-06-27T00:48:05.899"
-      },
+      }
     ]
   }
